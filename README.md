@@ -1,2 +1,0 @@
-# ejemplo
-mi primer repositorio
